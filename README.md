@@ -1,7 +1,7 @@
-# 👾 Simple-AI
-🔥 Develop LLMs easily 🔥
+# 👾 Prompty
+🔥 Create AI-systems easily 🔥
 
-With Simple-AI you can create and test single prompt instructions, agents or train a custom LLM. Our goal is to achieve AI abstractions to make easy to use and, at the same time, fully customizable so that AI developers can reuse code from any level of abstraction.
+With Prompty you can create and test any single prompt instruction/technique, agent or training a custom LLM. Our goal is to achieve LLMs abstractions to make easy to use and, at the same time, fully customizable so that AI developers can reuse code from any level of abstraction.
 
 ## Index
 
